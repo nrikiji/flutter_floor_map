@@ -1,16 +1,11 @@
 # flutter_floor_map
 
-A new Flutter application.
+## overview
+I made a sample of using [photo_view](https://pub.dev/packages/photo_view) to put markers on a floor map. Pinch-in and pinch-out are functions of photo_view.  
 
-## Getting Started
+The position of the markers is free. The floor map and marker images are also placed on the Stack. Each time you pinch in, pinch out, or scroll, the position is adjusted.  
 
-This project is a starting point for a Flutter application.
+The target file is only main.dart.  
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![]<img src="https://user-images.githubusercontent.com/4780752/123290767-80cbc200-d54c-11eb-9367-e6644277c84a.PNG" />
+![]<img src="https://user-images.githubusercontent.com/4780752/123290756-7d383b00-d54c-11eb-8be5-37f8a95e617e.PNG" />
