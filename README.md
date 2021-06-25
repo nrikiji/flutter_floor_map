@@ -1,4 +1,4 @@
-# flutter_floor_map_marker
+# flutter_floor_map
 
 ## overview
 I made a sample of using [photo_view](https://pub.dev/packages/photo_view) to put markers on a floor map. Pinch-in and pinch-out are functions of photo_view.  
